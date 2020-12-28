@@ -1,0 +1,55 @@
+stat.o stat.o: ../../../src/library/stat.cpp /usr/include/stdlib.h \
+  /usr/include/_ansi.h /usr/include/newlib.h /usr/include/sys/config.h \
+  /usr/include/machine/ieeefp.h /usr/include/cygwin/config.h \
+  /usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stddef.h \
+  /usr/include/sys/reent.h /usr/include/_ansi.h /usr/include/sys/_types.h \
+  /usr/include/sys/lock.h /usr/include/machine/stdlib.h \
+  /usr/include/alloca.h /usr/include/cygwin/stdlib.h \
+  /usr/include/cygwin/wait.h /usr/include/string.h \
+  /usr/include/sys/string.h /usr/include/math.h \
+  ../../../src/library/mystring.h ../../../src/library/debug.h \
+  ../../../src/library/myexcept.h ../../../src/library/stat.h
+
+/usr/include/stdlib.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/newlib.h:
+
+/usr/include/sys/config.h:
+
+/usr/include/machine/ieeefp.h:
+
+/usr/include/cygwin/config.h:
+
+/usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stddef.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/lock.h:
+
+/usr/include/machine/stdlib.h:
+
+/usr/include/alloca.h:
+
+/usr/include/cygwin/stdlib.h:
+
+/usr/include/cygwin/wait.h:
+
+/usr/include/string.h:
+
+/usr/include/sys/string.h:
+
+/usr/include/math.h:
+
+../../../src/library/mystring.h:
+
+../../../src/library/debug.h:
+
+../../../src/library/myexcept.h:
+
+../../../src/library/stat.h:

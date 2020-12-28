@@ -1,0 +1,160 @@
+## COMA/CONDOR options
+##
+
+[OPTIONS]
+
+## Output options:
+##
+#   Print hits with e-value below this value            [Real]
+EVAL = 10.0
+#   Number of hits to show in the result list           [Integer]
+NOHITS = 500
+#   Number of alignments to show in the output          [Integer]
+NOALNS = 500
+#   Show statistical parameters below alignments        (0|1)
+SHOW = 1
+
+## Profile construction options:
+##
+#   Ignore sequences in alignment file with this or     [1-100]
+#   higher level of sequence identity
+IDENTITY = 94
+#   Perform delete state (gaps in first sequence)       (0|1)
+#   computations
+DELSTATE = 1
+
+## ADVANCED options
+##
+## Profile construction options:
+##
+#   Weight for pseudocount frequencies                  [Integer]
+PCFWEIGHT = 7
+#   Minimum fraction (percentage) of alignment an       [1-100]
+#   extent must cover
+MINALNFRN = 5
+#   Minimum number of alignment positions an            [Integer]
+#   extent must consist of (comb. with MINALNFRN)
+MINALNPOS = 7
+
+## Masking options:
+##
+#   Mask positions of profiles with information         [Real]
+#   content less than specified value
+INFCON = 0.17
+#   Perform masking of profile positions after          (0|1)
+#   statistical parameters are computed
+MASKAFTER = 0
+#   Scale down masked positions by specified            [0-100]
+#   percentage
+SCALEDOWN = 50
+
+## SEG options:
+##
+#   Invoke high-complexity filter in alignment          (0|1)
+#   columns
+HCFILTER = 1
+#   Window length                                       [Integer]
+HCWINDOW = 30
+#   Low entropy threshold                               [Real]
+HCLOWENT = 3.3
+#   High entropy threshold                              [Real]
+HCHIGHENT = 3.5
+
+#   Invoke low-complexity filtering of query            (0|1)
+INVLCFILTER = 0
+#   Invoke LC filtering for each sequence in            (0|1)
+#   alignment using same parameters below
+LCFILTEREACH = 0
+#   Window length                                       [Integer]
+LCWINDOW = 12
+#   Low entropy threshold                               [Real]
+LCLOWENT = 2.2
+#   High entropy threshold                              [Real]
+LCHIGHENT = 2.5
+#   Distance of equivalence between profile vectors     [Real]
+DISTANCE = 12.96
+
+## Alignment options:
+##
+#   Gap opening cost. 0 -- UNGAPPED alignments.         (Integer|A[1-50])
+#    A -- automatically computed costs.
+#   Optional number after A specifies 
+#   autocorrelation window size
+OPENCOST = A4
+#   Initial gap extension cost                          [Integer]
+EXTCOST = 1
+#   Deletion probability weight                         [0-1.0]
+DELPROBWEIGHT = 0.6
+#   Scoring scheme to use:                              (profile|global)
+#    profile -- profile-specific scoring
+#    global -- within context of database
+SCHEME = profile
+#   Apply composition-based statistics                  (0|1)
+COMPSTATS = 1
+#   Use probabilities for gap costs                     (0|1)
+USEGCPROBS = 1
+
+## Gap probability options:
+##
+#   Evalue threshold for pair of profiles above which   [Real]
+#   gap probability factor takes effect
+GPROBEVAL = 1e-5
+#   Argument weight (P) in expression of computing gap  [Real]
+#   probability factor: 1/(1+exp(-P*thickness+R))
+GPFARGWEIGHT = 0.4
+#   Argument shift (R) in expression of computing gap   [Real]
+#   probability factor: 1/(1+exp(-P*thickness+R))
+GPFARGSHIFT = 0.0
+
+## Autocorrection options
+##
+#   Numerator (k) of expression to compute 1st-pass     [Real]
+#   autocorrection (k/sqrt(H));
+#   You may want to decrease it down to,
+#   e.g. 3.2 if ANPOSCOR (below) is set
+AC1NUMER = 4.0
+#   Numerator (K) of expression to compute 2nd-pass     [Real]
+#   upper bound for autocorrection (K/sqrt(H))
+AC2UBNUMER = 5.0
+#   Logarithmic scale (m) to compute 2nd-pass           [Real]
+#   autocorrection (-1/((log(E)+m)M))
+AC2LOGSCALE = 14.0
+#   Denominator scale (M) to compute 2nd-pass           [Real]
+#   autocorrection (-1/((log(E)+m)M))
+AC2DENOMSCALE = 0.12
+#   Compute analitically positional corrections         (0|1)
+ANPOSCOR = 0
+#   Do not compute any corrections                      (0|1)
+PROHIBITCOR = 0
+
+## Information correction options:
+##
+#   Upper bound (J) of information content threshold    [Real]
+#   used in 2nd-pass computations
+#    0 -- disables information correction
+INFCON2UB = 0.30
+#   Numerator (j) of expression to compute 2nd-pass     [Real]
+#   information content threshold (J+j/(log(E)-l))
+INFCON2NUMER = 4.4
+#   Logarithmic scale (l) to compute 2nd-pass           [Real]
+#   information content threshold (J+j/(log(E)-l))
+INFCON2LOGSCALE = 4.0
+#   Numerator (b) of alternative expression to compute  [Real]
+#   information content threshold (-b/(log(E)+B))
+INFCONALTNUMER = 1.0
+#   Logarithmic scale (B) to alternatively compute      [Real]
+#   information content threshold (-b/(log(E)+B))
+INFCONALTLOGSCALE = 3.0
+
+## High-scoring segment pairs:
+###
+#   Length of HSP hit                                   [3-50]
+HSPLEN = 3
+#   Minimum score of HSP hits                           [Integer]
+#    0 -- disables heuristics of HSPs
+HSPMINSCORE = 7
+#   Maximum distance between terminal HSP hits          [Integer]
+HSPMAXDIST = 60
+#   Number of HSPs used in multiple hits heuristics     [1-10]
+NOHSPS = 3
+

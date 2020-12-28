@@ -1,0 +1,31 @@
+pcmath.o pcmath.o: ../../../src/library/pcmath.cpp /usr/include/math.h \
+  /usr/include/sys/reent.h /usr/include/_ansi.h /usr/include/newlib.h \
+  /usr/include/sys/config.h /usr/include/machine/ieeefp.h \
+  /usr/include/cygwin/config.h /usr/include/sys/_types.h \
+  /usr/include/sys/lock.h \
+  /usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stddef.h /usr/include/_ansi.h \
+  ../../../src/library/pcmath.h
+
+/usr/include/math.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/newlib.h:
+
+/usr/include/sys/config.h:
+
+/usr/include/machine/ieeefp.h:
+
+/usr/include/cygwin/config.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/lock.h:
+
+/usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stddef.h:
+
+/usr/include/_ansi.h:
+
+../../../src/library/pcmath.h:

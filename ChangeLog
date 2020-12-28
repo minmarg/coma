@@ -1,0 +1,5 @@
+0.41, February 2010 *  Initial version
+1.02, April 2010    *  Heuristics of high-scoring pairs implemented; data format changed, and file of options added
+1.05, June 2010     *  data format changed: null probabilities added
+1.10, July 2010     *  Optimization of target frequencies implemented; implies
+increased sensitivity and specificity

@@ -1,0 +1,146 @@
+IMACountFiles.o IMACountFiles.o: ../../../src/library/IMACountFiles.cpp \
+  /usr/include/sys/types.h /usr/include/_ansi.h /usr/include/newlib.h \
+  /usr/include/sys/config.h /usr/include/machine/ieeefp.h \
+  /usr/include/cygwin/config.h /usr/include/machine/_types.h \
+  /usr/include/sys/_types.h /usr/include/sys/lock.h \
+  /usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stddef.h \
+  /usr/include/machine/types.h /usr/include/sys/features.h \
+  /usr/include/cygwin/types.h /usr/include/sys/sysmacros.h \
+  /usr/include/stdint.h /usr/include/endian.h /usr/include/sys/stat.h \
+  /usr/include/time.h /usr/include/_ansi.h /usr/include/sys/reent.h \
+  /usr/include/machine/time.h /usr/include/cygwin/time.h \
+  /usr/include/signal.h /usr/include/sys/signal.h \
+  /usr/include/cygwin/signal.h /usr/include/cygwin/stat.h \
+  /usr/include/dirent.h /usr/include/sys/dirent.h /usr/include/stdlib.h \
+  /usr/include/machine/stdlib.h /usr/include/alloca.h \
+  /usr/include/cygwin/stdlib.h /usr/include/cygwin/wait.h \
+  /usr/include/string.h /usr/include/sys/string.h \
+  ../../../src/library/IMACountFiles.h ../../../src/library/debug.h \
+  ../../../src/library/types.h /usr/include/inttypes.h \
+  /usr/include/sys/param.h \
+  /usr/lib/gcc/i686-pc-cygwin/3.4.4/include/limits.h \
+  /usr/lib/gcc/i686-pc-cygwin/3.4.4/include/syslimits.h \
+  /usr/include/limits.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  ../../../src/library/compdef.h ../../../src/library/rc.h \
+  ../../../src/library/mystring.h ../../../src/library/myexcept.h \
+  ../../../src/library/platform.h ../../../src/library/defines.h \
+  ../../../src/library/faccess.h /usr/include/stdio.h \
+  /usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stdarg.h \
+  /usr/include/sys/stdio.h ../../../src/library/IMACounts.h \
+  ../../../src/library/data.h ../../../src/library/pcmath.h
+
+/usr/include/sys/types.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/newlib.h:
+
+/usr/include/sys/config.h:
+
+/usr/include/machine/ieeefp.h:
+
+/usr/include/cygwin/config.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/lock.h:
+
+/usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stddef.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/sys/features.h:
+
+/usr/include/cygwin/types.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/stdint.h:
+
+/usr/include/endian.h:
+
+/usr/include/sys/stat.h:
+
+/usr/include/time.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/machine/time.h:
+
+/usr/include/cygwin/time.h:
+
+/usr/include/signal.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/cygwin/signal.h:
+
+/usr/include/cygwin/stat.h:
+
+/usr/include/dirent.h:
+
+/usr/include/sys/dirent.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/machine/stdlib.h:
+
+/usr/include/alloca.h:
+
+/usr/include/cygwin/stdlib.h:
+
+/usr/include/cygwin/wait.h:
+
+/usr/include/string.h:
+
+/usr/include/sys/string.h:
+
+../../../src/library/IMACountFiles.h:
+
+../../../src/library/debug.h:
+
+../../../src/library/types.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/sys/param.h:
+
+/usr/lib/gcc/i686-pc-cygwin/3.4.4/include/limits.h:
+
+/usr/lib/gcc/i686-pc-cygwin/3.4.4/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+../../../src/library/compdef.h:
+
+../../../src/library/rc.h:
+
+../../../src/library/mystring.h:
+
+../../../src/library/myexcept.h:
+
+../../../src/library/platform.h:
+
+../../../src/library/defines.h:
+
+../../../src/library/faccess.h:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/i686-pc-cygwin/3.4.4/include/stdarg.h:
+
+/usr/include/sys/stdio.h:
+
+../../../src/library/IMACounts.h:
+
+../../../src/library/data.h:
+
+../../../src/library/pcmath.h:

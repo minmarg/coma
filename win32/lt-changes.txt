@@ -1,0 +1,1 @@
+Change `ECHO=echo' to `echo=echo' to make libtool to work

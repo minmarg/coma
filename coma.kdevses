@@ -1,0 +1,464 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="137" >
+  <Doc0 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/env/coma.par" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/env/coma.par.org" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AbstractScoreMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc2>
+  <Doc3 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ConfigFile.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc3>
+  <Doc4 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/Serializer.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc4>
+  <Doc5 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/needconfig.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc5>
+  <Doc6 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/stat.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc6>
+  <Doc7 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/coma/coma.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc7>
+  <Doc8 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/coma/coma.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc8>
+  <Doc9 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/makedb/makedb.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc9>
+  <Doc10 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/makedb/makedb.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc10>
+  <Doc11 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/makepro/makepro.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc11>
+  <Doc12 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/makepro/makepro.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc12>
+  <Doc13 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/mpiscaler/ParallelUniversalScoreMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc13>
+  <Doc14 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/mpiscaler/mpiscaler.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc14>
+  <Doc15 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/mpiscaler/mpiscaler.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc15>
+  <Doc16 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/proview/proview.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc16>
+  <Doc17 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/pscores/pscores.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc17>
+  <Doc18 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/pshuffler/pshuffler.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc18>
+  <Doc19 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/segpro/segpro.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc19>
+  <Doc20 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/simal/simal.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc20>
+  <Doc21 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/defines.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc21>
+  <Doc22 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/GapScheme.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc22>
+  <Doc23 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/GapScheme.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc23>
+  <Doc24 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AbstractScoreMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc24>
+  <Doc25 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AbstractUniversalScoreMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc25>
+  <Doc26 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AdjustedScoreMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc26>
+  <Doc27 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AlignmentSimulation.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc27>
+  <Doc28 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AttributableScores.h" >
+   <View0 Encoding="ISO 8859-1" line="945" Type="Source" />
+  </Doc28>
+  <Doc29 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AttributableScoresFPI.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc29>
+  <Doc30 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AttributableScoresII.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc30>
+  <Doc31 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/BinarySearchStructure.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc31>
+  <Doc32 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/CRCHashing.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc32>
+  <Doc33 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ConfigFile.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc33>
+  <Doc34 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/Configuration.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc34>
+  <Doc35 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/Database.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc35>
+  <Doc36 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/DescriptionVector.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc36>
+  <Doc37 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/DistributionMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc37>
+  <Doc38 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/FastAlignment.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc38>
+  <Doc39 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/FrequencyStore.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc39>
+  <Doc40 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/HashFunctions.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc40>
+  <Doc41 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/HashTable.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc41>
+  <Doc42 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/IMAClusters.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc42>
+  <Doc43 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/IMACountFiles.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc43>
+  <Doc44 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/IMACounts.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc44>
+  <Doc45 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/InputMultipleAlignment.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc45>
+  <Doc46 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/MD5Hashing.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc46>
+  <Doc47 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileAlignment.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc47>
+  <Doc48 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileMatrix.h" >
+   <View0 Encoding="ISO 8859-1" line="0" Type="Source" />
+  </Doc48>
+  <Doc49 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileSearching.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc49>
+  <Doc50 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileShuffler.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc50>
+  <Doc51 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/RJHashing.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc51>
+  <Doc52 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SBoxHashing.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc52>
+  <Doc53 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SEGAbstract.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc53>
+  <Doc54 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SEGProfile.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc54>
+  <Doc55 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SEGSequence.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc55>
+  <Doc56 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ScoringMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc56>
+  <Doc57 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SegmentStructure.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc57>
+  <Doc58 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/Serializer.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc58>
+  <Doc59 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/UniversalScoreMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc59>
+  <Doc60 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/compdef.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc60>
+  <Doc61 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/data.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc61>
+  <Doc62 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/debug.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc62>
+  <Doc63 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/faccess.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc63>
+  <Doc64 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/myexcept.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc64>
+  <Doc65 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/mystring.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc65>
+  <Doc66 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/pcmath.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc66>
+  <Doc67 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/platform.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc67>
+  <Doc68 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/rc.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc68>
+  <Doc69 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/segdata.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc69>
+  <Doc70 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/types.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc70>
+  <Doc71 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/version.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc71>
+  <Doc72 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AbstractUniversalScoreMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc72>
+  <Doc73 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AdjustedScoreMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc73>
+  <Doc74 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AlignmentSimulation.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc74>
+  <Doc75 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AttributableScores.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc75>
+  <Doc76 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AttributableScoresFPI.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc76>
+  <Doc77 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/AttributableScoresII.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc77>
+  <Doc78 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/BinarySearchStructure.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc78>
+  <Doc79 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/CRCHashing.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc79>
+  <Doc80 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/Configuration.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc80>
+  <Doc81 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/Database.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc81>
+  <Doc82 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/DescriptionVector.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc82>
+  <Doc83 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/DistributionMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" line="1116" Type="Source" />
+  </Doc83>
+  <Doc84 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/FastAlignment.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc84>
+  <Doc85 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/FrequencyStore.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc85>
+  <Doc86 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/HashFunctions.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc86>
+  <Doc87 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/HashTable.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc87>
+  <Doc88 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/IMAClusters.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc88>
+  <Doc89 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/IMACountFiles.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc89>
+  <Doc90 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/IMACounts.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc90>
+  <Doc91 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/InputMultipleAlignment.cpp" >
+   <View0 Encoding="ISO 8859-1" line="1568" Type="Source" />
+  </Doc91>
+  <Doc92 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/MD5Hashing.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc92>
+  <Doc93 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileAlignment.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc93>
+  <Doc94 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" line="266" Type="Source" />
+  </Doc94>
+  <Doc95 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileSearching.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc95>
+  <Doc96 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ProfileShuffler.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc96>
+  <Doc97 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/RJHashing.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc97>
+  <Doc98 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SBoxHashing.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc98>
+  <Doc99 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SEGAbstract.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc99>
+  <Doc100 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SEGProfile.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc100>
+  <Doc101 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SEGSequence.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc101>
+  <Doc102 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/ScoringMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" line="625" Type="Source" />
+  </Doc102>
+  <Doc103 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/SegmentStructure.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc103>
+  <Doc104 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/UniversalScoreMatrix.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc104>
+  <Doc105 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/data.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc105>
+  <Doc106 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/faccess.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc106>
+  <Doc107 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/myexcept.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc107>
+  <Doc108 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/mystring.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc108>
+  <Doc109 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/pcmath.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc109>
+  <Doc110 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/rc.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc110>
+  <Doc111 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/segdata.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc111>
+  <Doc112 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/stat.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc112>
+  <Doc113 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/pcluster/pcluster.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc113>
+  <Doc114 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/proview/proview.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc114>
+  <Doc115 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/pscores/pscores.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc115>
+  <Doc116 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/pshuffler/pshuffler.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc116>
+  <Doc117 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/segpro/segpro.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc117>
+  <Doc118 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/simal/simal.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc118>
+  <Doc119 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/pcluster/pcluster.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc119>
+  <Doc120 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/mpiscaler/ParallelUniversalScoreMatrix.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc120>
+  <Doc121 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/mpiscaler/PScaler.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc121>
+  <Doc122 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/mpiscaler/PScaler.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc122>
+  <Doc123 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/lmpi/MessageDispatcher.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc123>
+  <Doc124 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/lmpi/MessageDispatcher.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc124>
+  <Doc125 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/CtxtFrequencies.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc125>
+  <Doc126 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/CtxtFrequencies.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc126>
+  <Doc127 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/CtxtCoefficients.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc127>
+  <Doc128 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/CtxtCoefficients.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc128>
+  <Doc129 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/MOptions.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc129>
+  <Doc130 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/MOptions.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc130>
+  <Doc131 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/ext/pslvector.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc131>
+  <Doc132 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/ext/pslvector.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc132>
+  <Doc133 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/ext/psl.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc133>
+  <Doc134 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/TargetFreqOptimizerH.cpp" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc134>
+  <Doc135 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/library/TargetFreqOptimizerH.h" >
+   <View0 Encoding="ISO 8859-1" Type="Source" />
+  </Doc135>
+  <Doc136 NumberOfViews="1" URL="file:///home/mindaugas/projects/coma-v1/src/ext/pslcodes.h" >
+   <View0 Encoding="ISO 8859-1" line="20" Type="Source" />
+  </Doc136>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList/>
+   <showInternalCommands value="0" />
+  </kdevdebugger>
+  <kdevastyle>
+   <Extensions ext="*.cpp *.h *.hpp,*.c *.h,*.cxx *.hxx,*.c++ *.h++,*.cc *.hh,*.C *.H,*.diff ,*.inl,*.java,*.moc,*.patch,*.tlh,*.xpm" />
+   <AStyle IndentPreprocessors="0" FillCount="4" PadParenthesesOut="1" IndentNamespaces="1" IndentLabels="1" Fill="Tabs" MaxStatement="40" Brackets="Break" MinConditional="-1" IndentBrackets="0" PadParenthesesUn="1" BlockBreak="0" KeepStatements="1" KeepBlocks="1" BlockIfElse="0" IndentSwitches="1" PadOperators="0" FStyle="UserDefined" IndentCases="0" FillEmptyLines="0" BracketsCloseHeaders="0" BlockBreakAll="0" PadParenthesesIn="1" IndentClasses="1" IndentBlocks="0" FillForce="0" />
+  </kdevastyle>
+  <kdevbookmarks>
+   <bookmarks>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/InputMultipleAlignment.cpp" >
+     <mark line="1540" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/ProfileAlignment.cpp" >
+     <mark line="387" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/ScoringMatrix.cpp" >
+     <mark line="263" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/ProfileSearching.cpp" >
+     <mark line="455" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/GapScheme.cpp" >
+     <mark line="340" />
+     <mark line="393" />
+     <mark line="626" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/AbstractScoreMatrix.cpp" >
+     <mark line="460" />
+     <mark line="381" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/GapScheme.h" >
+     <mark line="282" />
+    </bookmark>
+    <bookmark url="/home/mindaugas/projects/coma-v1/src/library/AttributableScores.cpp" >
+     <mark line="1252" />
+    </bookmark>
+   </bookmarks>
+  </kdevbookmarks>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>
